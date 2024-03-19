@@ -9,6 +9,7 @@ public class Class1
 	public void PraznaMetoda()
 	{
 		// Prazna metoda
+		// Popravak Ivinog buga
 	}
 
 	public void NovaPraznaMetoda(){
